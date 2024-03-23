@@ -1,0 +1,78 @@
+header {
+    background-color: #Af6ee4;
+    height: 150px;
+    width: 100%;
+    margin-bottom: 90%;
+    position: absolute;
+    justify-content: center;
+}
+
+h1 {
+    font-family: "Coiny", system-ui;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    color: #000000;
+    margin-top: 0.1px;
+}
+
+body,html {
+    background-color: #ffadaa;
+    cursor: url('../img/pinball\ cursor.png'), auto;
+}
+
+#stars1 {
+    display: block;
+    position: absolute;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+
+#stars2 {
+    display: block;
+    position: absolute;
+    margin-left: 82%;
+    margin-top: 4%;
+}
+
+div.center {
+    display: flex;
+    justify-content: center;
+}
+
+#home {
+    display: block;
+    position: absolute;
+    width: 10%;
+    margin-left: 17%;
+    margin-right: 83%;
+    margin-top: 25%;
+}
+
+#balloon {
+    display: block;
+    position: absolute;
+    width: 09%;
+    margin-left: 45%;
+    margin-right: 55%;
+    margin-top: 40%;
+}
+
+#paintbrush {
+    display: block;
+    position: absolute;
+    width: 08%;
+    margin-left: 73%;
+    margin-top: 25%;
+}
+
+#peggle {
+    display: block;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 10%;
+    justify-content: center;
+    position: absolute;
+}

@@ -1,0 +1,78 @@
+header {
+    background-color: #854DB7;
+    height: 150px;
+    width: 100%;
+    margin-bottom: 90%;
+    position: absolute;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Rubik Broken Fax", system-ui;
+    font-size: 100px;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    margin-top: 0.1px;
+}
+
+body, html {
+    background-color: #FFD1D0;
+    cursor: url('../img/paint\ bucket\ cursor.png'), auto;
+}
+
+div.center {
+    display: flex;
+    justify-content: center;
+}
+
+#stars1 {
+    display: block;
+    position: absolute;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+
+#stars2 {
+    display: block;
+    position: absolute;
+    margin-left: 82%;
+    margin-top: 4%;
+}
+
+#pinball {
+    display: block;
+    position: absolute;
+    width: 07%;
+    margin-left: 20%;
+    margin-right: 80%;
+    margin-top: 27.8%;
+}
+
+#balloon {
+    display: block;
+    position: absolute;
+    width: 09%;
+    margin-left: 45%;
+    margin-right: 55%;
+    margin-top: 40%;
+}
+
+#home {
+    display: block;
+    position: absolute;
+    width: 10%;
+    margin-left: 72.5%;
+    margin-top: 27.8%;
+}
+
+#Kid-PixGIF {
+    display: block;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 10%;
+    justify-content: center;
+    position: absolute;
+}

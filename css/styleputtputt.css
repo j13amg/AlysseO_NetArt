@@ -1,0 +1,81 @@
+header {
+    background-color: #C35493;
+    height: 150px;
+    width: 100%;
+    margin-bottom: 90%;
+    justify-content: center;
+    position: absolute;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    color: #000000;
+    margin-top: 0.1px;
+
+}
+
+
+body,html {
+    background-color: #FFBFBD;
+    cursor: url('../img/Candle\ cursor.png'), auto;
+}
+
+
+div.center {
+    display: flex;
+    justify-content: center;
+}
+
+#stars1 {
+    display: block;
+    position: absolute;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+
+#stars2 {
+    display: block;
+    position: absolute;
+    margin-left: 82%;
+    margin-top: 4%;
+}
+
+#pinball {
+    display: block;
+    position: absolute;
+    width: 07%;
+    margin-left: 20%;
+    margin-right: 80%;
+    margin-top: 28%;
+}
+
+#home {
+    display: block;
+    position: absolute;
+    width: 09%;
+    margin-left: 45%;
+    margin-right: 55%;
+    margin-top: 40%;
+}
+
+#paintbrush {
+    display: block;
+    position: absolute;
+    width: 10%;
+    margin-left: 72.5%;
+    margin-top: 25%;
+}
+
+#putt {
+    display: block;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 10%;
+    justify-content: center;
+    position: absolute;
+}
